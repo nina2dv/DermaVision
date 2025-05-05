@@ -1,0 +1,627 @@
+age_approx,anatom_site_general,benign_malignant,clin_size_long_diam_mm,dermoscopic_type,diagnosis,family_hx_mm,fitzpatrick_skin_type,melanocytic,personal_hx_mm,sex
+50,head/neck,malignant,5.4,contact polarized,melanoma,True,III,True,True,female
+50,lower extremity,benign,3.9,contact non-polarized,nevus,True,I,True,True,female
+65,upper extremity,benign,4.9,contact polarized,lichenoid keratosis,False,III,False,False,male
+85,posterior torso,benign,4.0,contact polarized,nevus,False,II,True,False,male
+35,head/neck,benign,7.3,contact polarized,lentigo NOS,False,III,True,False,male
+75,head/neck,benign,2.7,contact polarized,lentigo NOS,True,II,True,True,male
+80,posterior torso,benign,8.2,contact polarized,nevus,False,III,True,True,male
+40,lower extremity,malignant,4.2,contact polarized,melanoma,True,II,True,True,female
+65,posterior torso,indeterminate/benign,4.5,non-contact polarized,atypical melanocytic proliferation,False,III,True,True,male
+75,anterior torso,benign,5.7,contact polarized,nevus,False,II,True,True,female
+65,anterior torso,malignant,7.1,contact polarized,melanoma,False,III,True,False,male
+65,upper extremity,malignant,15.1,contact polarized,melanoma,True,I,True,True,male
+70,head/neck,indeterminate/benign,9.6,contact polarized,atypical melanocytic proliferation,True,II,True,False,female
+85,lower extremity,benign,2.9,contact polarized,nevus,True,II,True,True,female
+60,head/neck,indeterminate/malignant,8.6,contact polarized,melanoma,True,I,True,True,female
+60,head/neck,benign,17.2,contact polarized,lentigo NOS,True,II,True,False,female
+25,posterior torso,indeterminate/benign,5.6,contact polarized,nevus,False,II,True,False,female
+75,lower extremity,benign,6.0,contact polarized,seborrheic keratosis,False,II,False,True,male
+75,upper extremity,malignant,10.0,contact non-polarized,melanoma,False,II,True,True,female
+55,posterior torso,malignant,10.1,contact non-polarized,melanoma,True,III,True,True,male
+55,posterior torso,benign,10.8,contact polarized,seborrheic keratosis,True,II,False,True,female
+70,upper extremity,malignant,11.7,contact non-polarized,melanoma,False,II,True,False,male
+45,upper extremity,benign,7.1,non-contact polarized,nevus,False,II,True,False,male
+65,lateral torso,indeterminate/benign,11.0,contact polarized,atypical melanocytic proliferation,False,I,True,True,male
+60,lower extremity,benign,4.6,contact polarized,nevus,False,II,True,False,female
+70,lower extremity,benign,6.6,contact polarized,lentigo NOS,False,III,True,True,female
+30,posterior torso,benign,5.2,contact polarized,nevus,True,III,True,False,female
+50,lower extremity,benign,3.9,non-contact polarized,nevus,True,I,True,True,female
+75,posterior torso,benign,7.2,contact polarized,nevus,True,III,True,False,male
+70,posterior torso,benign,15.5,non-contact polarized,seborrheic keratosis,False,I,True,True,female
+25,anterior torso,benign,15.1,contact polarized,nevus,False,I,True,True,female
+30,posterior torso,benign,5.6,contact polarized,nevus,True,II,True,False,male
+50,palms/soles,benign,4.1,contact polarized,nevus,True,II,True,True,female
+60,posterior torso,benign,5.3,contact non-polarized,nevus,False,IV,True,False,male
+50,anterior torso,benign,11.1,contact polarized,nevus,False,III,True,False,female
+70,anterior torso,benign,3.4,contact polarized,nevus,False,III,True,False,female
+50,upper extremity,indeterminate/benign,6.8,contact polarized,atypical melanocytic proliferation,True,II,True,False,female
+60,lower extremity,benign,9.5,contact non-polarized,nevus,True,I,True,True,female
+55,posterior torso,benign,8.4,contact non-polarized,nevus,False,III,True,True,female
+55,posterior torso,benign,4.9,contact polarized,nevus,True,III,True,False,male
+80,upper extremity,benign,7.5,contact polarized,actinic keratosis,False,III,False,True,male
+85,upper extremity,malignant,12.6,contact polarized,melanoma,False,II,True,False,male
+25,lower extremity,benign,5.4,contact polarized,nevus,True,II,True,False,male
+55,upper extremity,benign,11.1,contact polarized,lentigo NOS,False,II,True,False,female
+80,head/neck,indeterminate/benign,8.7,contact polarized,atypical melanocytic proliferation,False,II,True,False,male
+75,anterior torso,benign,6.9,contact polarized,lentigo NOS,False,II,True,False,male
+60,upper extremity,malignant,7.3,non-contact polarized,melanoma,True,II,True,False,male
+55,upper extremity,benign,4.3,contact polarized,nevus,False,III,True,False,female
+70,head/neck,benign,14.4,contact polarized,actinic keratosis,False,I,False,True,male
+20,posterior torso,benign,9.1,contact polarized,nevus,True,II,True,False,female
+60,anterior torso,benign,10.6,contact polarized,nevus,True,III,True,False,female
+60,upper extremity,malignant,7.5,contact non-polarized,basal cell carcinoma,True,I,False,False,male
+70,lower extremity,benign,5.9,contact polarized,seborrheic keratosis,False,III,False,False,male
+55,anterior torso,benign,6.6,contact polarized,nevus,True,IV,True,True,female
+65,lower extremity,indeterminate/malignant,8.7,non-contact polarized,melanoma,True,II,True,True,female
+60,lower extremity,benign,4.6,non-contact polarized,nevus,False,III,True,False,female
+35,anterior torso,benign,8.9,contact polarized,nevus,False,III,True,False,female
+55,head/neck,benign,6.3,contact polarized,nevus,True,III,True,True,female
+50,posterior torso,benign,3.2,contact polarized,nevus,False,II,True,True,female
+55,lower extremity,benign,6.1,non-contact polarized,nevus,True,II,True,False,female
+50,upper extremity,benign,4.0,contact polarized,seborrheic keratosis,True,II,False,False,female
+30,lower extremity,benign,6.6,contact non-polarized,nevus,True,II,True,True,female
+80,lower extremity,malignant,8.5,non-contact polarized,melanoma,False,I,True,True,female
+65,upper extremity,benign,4.9,contact polarized,lentigo NOS,False,II,True,False,female
+55,lateral torso,benign,5.3,contact non-polarized,nevus,False,II,True,True,male
+80,posterior torso,benign,9.8,contact non-polarized,lentigo NOS,True,II,True,False,female
+50,posterior torso,benign,5.7,contact non-polarized,nevus,False,II,True,False,female
+40,posterior torso,benign,3.9,contact polarized,nevus,True,II,True,True,male
+45,posterior torso,benign,3.8,contact polarized,nevus,True,II,True,True,male
+40,lower extremity,benign,6.5,non-contact polarized,nevus,True,II,True,False,female
+65,anterior torso,benign,10.7,contact polarized,nevus,False,I,True,False,male
+65,upper extremity,benign,3.6,contact polarized,lentigo NOS,False,III,True,False,female
+75,lower extremity,benign,6.8,contact polarized,seborrheic keratosis,False,III,False,True,female
+70,lower extremity,benign,7.6,contact non-polarized,actinic keratosis,True,II,True,True,female
+70,upper extremity,benign,6.0,contact non-polarized,dermatofibroma,False,I,False,True,female
+75,posterior torso,indeterminate/malignant,8.6,contact non-polarized,melanoma,True,II,True,True,male
+40,lower extremity,benign,5.6,contact polarized,nevus,False,II,True,False,female
+85,posterior torso,benign,7.8,contact polarized,seborrheic keratosis,True,II,False,True,male
+30,posterior torso,benign,3.6,contact polarized,nevus,True,III,True,True,male
+20,anterior torso,benign,6.8,contact non-polarized,nevus,True,I,True,True,female
+70,lower extremity,benign,3.7,contact polarized,dermatofibroma,False,II,False,False,female
+55,lower extremity,malignant,5.4,contact polarized,melanoma,False,III,True,False,female
+75,lower extremity,benign,2.8,contact polarized,nevus,False,II,True,False,female
+65,posterior torso,benign,7.1,contact non-polarized,lichenoid keratosis,False,III,False,False,male
+55,lower extremity,benign,3.4,contact polarized,nevus,False,I,True,True,male
+40,upper extremity,benign,5.7,contact polarized,nevus,True,III,True,True,female
+35,upper extremity,benign,2.6,contact polarized,nevus,True,III,True,False,female
+70,posterior torso,benign,3.7,contact polarized,lichenoid keratosis,True,II,True,False,female
+75,posterior torso,benign,3.1,contact non-polarized,nevus,True,III,True,False,female
+75,posterior torso,malignant,9.2,contact polarized,melanoma,False,II,True,True,male
+50,posterior torso,benign,3.9,contact polarized,nevus,False,I,True,True,male
+70,lower extremity,benign,2.2,contact non-polarized,nevus,False,II,True,True,male
+50,posterior torso,benign,9.7,contact polarized,nevus,False,III,True,True,male
+65,lower extremity,benign,9.8,contact polarized,verruca,True,II,False,True,male
+25,upper extremity,benign,2.8,contact polarized,nevus,True,II,True,False,male
+65,posterior torso,benign,4.6,contact polarized,nevus,False,III,True,False,female
+65,posterior torso,benign,6.1,contact polarized,lentigo NOS,True,II,True,True,female
+60,anterior torso,benign,6.8,non-contact polarized,nevus,False,III,True,True,male
+85,head/neck,malignant,10.2,contact polarized,melanoma,False,III,True,True,male
+65,anterior torso,benign,19.7,contact polarized,seborrheic keratosis,True,II,True,False,female
+75,anterior torso,benign,4.1,contact polarized,nevus,False,II,True,True,male
+65,head/neck,benign,5.4,contact polarized,lentigo NOS,True,II,True,True,male
+45,posterior torso,benign,2.6,contact non-polarized,nevus,False,II,True,True,female
+60,posterior torso,benign,6.0,contact polarized,nevus,True,II,True,False,female
+80,anterior torso,malignant,10.1,contact non-polarized,melanoma,False,II,True,True,male
+65,posterior torso,benign,4.0,contact polarized,nevus,False,III,True,False,female
+40,lateral torso,benign,4.2,non-contact polarized,nevus,True,II,True,True,female
+45,posterior torso,benign,3.6,contact polarized,nevus,False,II,True,True,female
+70,upper extremity,malignant,9.7,contact polarized,melanoma,False,II,True,False,male
+30,lower extremity,malignant,4.5,non-contact polarized,melanoma,False,II,True,False,male
+80,posterior torso,indeterminate/malignant,9.4,contact polarized,melanoma,True,III,True,True,male
+55,upper extremity,benign,4.4,contact polarized,nevus,False,III,True,False,female
+55,lower extremity,malignant,5.4,non-contact polarized,squamous cell carcinoma,False,II,False,False,female
+40,upper extremity,benign,4.5,contact polarized,nevus,True,IV,True,False,male
+50,head/neck,benign,10.3,contact polarized,lentigo NOS,False,II,True,False,female
+60,lower extremity,benign,8.3,contact polarized,seborrheic keratosis,False,II,True,False,female
+60,anterior torso,benign,4.4,contact polarized,nevus,False,III,True,False,male
+80,lower extremity,malignant,7.8,contact non-polarized,melanoma,True,II,True,True,female
+75,anterior torso,malignant,6.4,contact polarized,squamous cell carcinoma,False,III,False,True,female
+80,upper extremity,benign,4.2,contact polarized,nevus,False,III,True,True,female
+45,upper extremity,benign,4.9,contact polarized,nevus,True,II,True,False,female
+75,anterior torso,benign,3.4,contact polarized,nevus,True,III,True,True,male
+70,upper extremity,malignant,10.4,contact non-polarized,melanoma,True,II,True,True,female
+50,upper extremity,benign,3.6,contact polarized,nevus,False,IV,True,False,male
+75,lower extremity,malignant,6.9,contact polarized,melanoma,False,II,True,True,male
+55,lower extremity,benign,6.6,contact non-polarized,atypical melanocytic proliferation,True,I,True,True,female
+40,posterior torso,benign,4.7,contact polarized,nevus,True,III,True,True,female
+70,head/neck,benign,6.5,contact non-polarized,angioma,True,III,False,True,male
+60,upper extremity,benign,6.8,contact polarized,lentigo NOS,False,II,True,False,female
+30,upper extremity,benign,4.9,contact polarized,nevus,True,II,True,False,male
+50,anterior torso,benign,3.6,contact polarized,atypical melanocytic proliferation,False,III,True,False,female
+40,lateral torso,benign,4.2,contact polarized,nevus,True,II,True,True,female
+80,head/neck,malignant,20.0,contact non-polarized,squamous cell carcinoma,False,II,False,True,male
+70,upper extremity,malignant,8.8,contact polarized,melanoma,True,II,True,True,female
+65,posterior torso,benign,2.8,contact polarized,nevus,False,III,True,True,male
+65,upper extremity,indeterminate/malignant,7.8,contact polarized,melanoma,True,II,True,False,female
+75,posterior torso,benign,4.2,contact polarized,nevus,False,II,True,False,male
+40,anterior torso,benign,5.3,contact polarized,nevus,False,III,True,False,male
+65,lateral torso,benign,4.4,contact polarized,nevus,False,III,True,False,female
+55,lower extremity,benign,4.1,contact polarized,nevus,False,II,True,False,male
+70,upper extremity,indeterminate/malignant,6.7,non-contact polarized,melanoma,True,II,True,True,male
+45,lateral torso,benign,4.2,contact polarized,nevus,False,II,True,True,female
+65,lower extremity,malignant,8.3,contact polarized,basal cell carcinoma,False,II,False,False,female
+35,posterior torso,benign,2.1,contact polarized,nevus,False,III,True,False,male
+65,posterior torso,benign,7.6,contact polarized,nevus,False,III,True,True,female
+40,upper extremity,benign,5.9,non-contact polarized,nevus,True,II,True,True,female
+50,lower extremity,benign,2.9,contact polarized,nevus,True,II,True,False,female
+65,anterior torso,benign,6.5,contact polarized,dermatofibroma,False,III,True,False,female
+60,posterior torso,benign,7.9,contact non-polarized,dermatofibroma,False,IV,False,True,male
+75,lower extremity,benign,3.9,contact polarized,lentigo NOS,True,III,True,False,female
+35,posterior torso,benign,3.6,contact polarized,nevus,False,II,True,True,female
+55,posterior torso,benign,4.4,contact polarized,nevus,False,III,True,False,female
+65,head/neck,benign,13.2,contact polarized,lentigo NOS,False,III,True,True,male
+20,posterior torso,benign,5.5,contact polarized,nevus,True,II,True,True,female
+60,head/neck,malignant,10.9,contact non-polarized,melanoma,False,II,True,True,male
+55,lower extremity,benign,4.3,contact polarized,nevus,False,III,True,True,male
+45,upper extremity,malignant,7.7,non-contact polarized,squamous cell carcinoma,True,I,False,False,male
+65,head/neck,malignant,15.8,contact non-polarized,melanoma,False,II,True,True,male
+60,head/neck,benign,4.4,contact polarized,seborrheic keratosis,False,II,False,True,male
+60,posterior torso,benign,13.0,contact polarized,nevus,True,III,True,True,male
+65,anterior torso,malignant,8.6,contact non-polarized,melanoma,True,II,True,True,male
+25,upper extremity,benign,4.5,contact polarized,nevus,True,II,True,False,male
+65,anterior torso,benign,10.3,contact polarized,lichenoid keratosis,False,III,False,False,male
+70,upper extremity,benign,4.1,contact polarized,nevus,True,II,True,False,female
+30,anterior torso,benign,2.5,contact non-polarized,nevus,True,II,True,False,female
+65,upper extremity,benign,3.4,non-contact polarized,nevus,True,II,True,True,male
+70,posterior torso,benign,5.0,non-contact polarized,lentigo NOS,False,II,True,False,female
+65,head/neck,malignant,6.5,contact polarized,melanoma,True,III,True,True,male
+30,lower extremity,benign,6.6,non-contact polarized,nevus,True,II,True,True,female
+65,lower extremity,benign,10.6,contact polarized,nevus,False,II,True,False,female
+40,upper extremity,benign,1.8,contact non-polarized,nevus,False,II,True,False,female
+65,posterior torso,benign,2.6,contact polarized,nevus,False,III,True,True,male
+75,anterior torso,malignant,5.3,contact non-polarized,melanoma,False,II,True,True,female
+65,posterior torso,benign,5.8,contact polarized,nevus,False,III,True,False,male
+40,posterior torso,benign,14.6,contact non-polarized,nevus,True,II,True,False,female
+25,lateral torso,benign,5.5,contact polarized,nevus,True,III,True,False,female
+50,upper extremity,malignant,4.1,contact polarized,melanoma,False,III,True,False,female
+80,lower extremity,benign,8.0,contact polarized,verruca,False,III,False,False,female
+65,lower extremity,benign,12.6,contact non-polarized,lentigo NOS,False,II,True,False,female
+80,anterior torso,malignant,10.1,contact polarized,melanoma,False,II,True,True,male
+25,posterior torso,benign,10.7,contact polarized,nevus,True,II,True,True,female
+75,anterior torso,benign,7.3,contact polarized,actinic keratosis,False,II,True,False,male
+50,upper extremity,malignant,3.2,contact polarized,melanoma,False,III,True,True,male
+45,head/neck,benign,3.4,contact polarized,nevus,False,III,True,False,male
+50,anterior torso,benign,8.3,contact polarized,lichenoid keratosis,True,III,True,True,female
+45,lateral torso,benign,5.5,contact polarized,nevus,True,III,True,False,male
+50,posterior torso,benign,9.0,contact polarized,nevus,False,II,True,False,female
+40,lower extremity,benign,4.6,contact polarized,nevus,False,II,True,True,female
+75,head/neck,malignant,7.2,non-contact polarized,melanoma,True,II,True,True,male
+55,posterior torso,benign,3.0,contact non-polarized,lentigo NOS,True,II,True,True,male
+70,lateral torso,benign,8.9,contact non-polarized,nevus,True,III,True,True,male
+75,posterior torso,malignant,10.0,contact non-polarized,basal cell carcinoma,False,III,False,True,male
+65,lower extremity,malignant,7.8,contact polarized,melanoma,False,II,True,True,female
+75,lower extremity,benign,4.7,contact polarized,nevus,True,II,True,True,male
+85,lower extremity,benign,8.8,contact polarized,lentigo NOS,False,III,True,True,male
+40,posterior torso,benign,3.7,contact polarized,nevus,True,II,True,True,female
+35,upper extremity,malignant,4.8,contact polarized,melanoma,True,III,True,False,female
+45,posterior torso,benign,5.6,contact non-polarized,nevus,False,II,True,False,male
+65,anterior torso,benign,6.5,contact polarized,lichenoid keratosis,False,II,False,True,female
+55,anterior torso,benign,3.7,contact polarized,nevus,False,II,True,False,female
+75,head/neck,benign,19.0,contact polarized,actinic keratosis,False,II,False,True,male
+45,lower extremity,benign,2.7,contact non-polarized,nevus,False,II,True,True,female
+65,lower extremity,malignant,6.8,contact non-polarized,melanoma,False,II,True,True,male
+50,posterior torso,benign,5.4,contact polarized,nevus,True,III,True,True,female
+65,lateral torso,benign,4.2,contact polarized,nevus,False,III,True,False,male
+30,lower extremity,benign,2.1,contact polarized,nevus,True,III,True,False,female
+65,posterior torso,benign,4.0,contact non-polarized,nevus,False,III,True,True,male
+30,lower extremity,benign,6.6,non-contact polarized,nevus,True,II,True,True,female
+70,lower extremity,benign,2.2,contact polarized,nevus,False,IV,True,False,male
+70,posterior torso,benign,5.3,contact polarized,dermatofibroma,False,II,False,True,male
+25,posterior torso,benign,3.6,contact polarized,nevus,True,II,True,False,female
+40,lower extremity,benign,3.2,contact non-polarized,nevus,True,I,True,False,female
+30,upper extremity,benign,3.1,contact polarized,nevus,True,II,True,False,female
+70,anterior torso,benign,5.3,contact polarized,nevus,True,II,True,True,male
+30,anterior torso,benign,4.4,non-contact polarized,nevus,False,III,True,False,female
+45,upper extremity,benign,1.4,contact non-polarized,seborrheic keratosis,True,II,True,False,female
+80,head/neck,benign,10.7,contact polarized,lentigo NOS,False,II,True,False,female
+80,lower extremity,benign,6.1,contact polarized,atypical melanocytic proliferation,False,II,True,True,female
+60,anterior torso,indeterminate/benign,4.1,contact polarized,nevus,False,III,True,False,female
+55,head/neck,malignant,9.0,contact polarized,squamous cell carcinoma,False,II,False,True,male
+25,posterior torso,benign,4.1,contact polarized,nevus,True,III,True,False,male
+75,lower extremity,benign,17.2,contact non-polarized,actinic keratosis,False,I,False,True,female
+70,head/neck,benign,4.2,contact polarized,lentigo NOS,False,II,True,False,female
+70,upper extremity,benign,6.5,contact polarized,nevus,False,II,True,True,male
+70,lower extremity,benign,4.5,contact polarized,nevus,True,III,True,False,female
+60,posterior torso,benign,7.3,contact polarized,nevus,False,II,True,False,female
+75,upper extremity,benign,5.0,contact polarized,nevus,False,II,True,True,female
+65,posterior torso,benign,8.8,contact polarized,nevus,False,II,True,True,male
+45,posterior torso,benign,3.2,contact polarized,nevus,True,III,True,False,female
+70,posterior torso,benign,9.3,contact polarized,nevus,False,III,True,True,female
+50,upper extremity,benign,8.2,contact polarized,nevus,True,II,True,False,female
+25,palms/soles,benign,3.5,contact non-polarized,nevus,False,III,True,True,female
+60,head/neck,malignant,9.7,contact polarized,melanoma,True,II,True,True,male
+70,anterior torso,benign,8.9,contact non-polarized,lichenoid keratosis,False,II,False,True,male
+65,upper extremity,benign,6.4,contact non-polarized,actinic keratosis,False,II,False,True,female
+80,head/neck,malignant,19.1,contact non-polarized,melanoma,False,I,True,False,female
+55,posterior torso,benign,1.8,contact polarized,seborrheic keratosis,False,II,False,False,male
+50,upper extremity,benign,4.1,contact non-polarized,nevus,False,IV,True,False,male
+50,lower extremity,benign,4.4,contact polarized,nevus,True,III,True,True,female
+70,upper extremity,benign,5.6,contact polarized,dermatofibroma,False,III,False,False,female
+80,posterior torso,benign,5.2,contact polarized,nevus,False,II,True,True,male
+80,lower extremity,benign,3.1,contact polarized,lichenoid keratosis,False,II,False,True,male
+55,anterior torso,benign,6.6,non-contact polarized,nevus,True,IV,True,True,female
+40,upper extremity,benign,6.7,contact polarized,nevus,True,II,True,False,female
+75,posterior torso,benign,6.9,contact non-polarized,nevus,False,II,True,False,male
+55,posterior torso,benign,6.0,contact polarized,nevus,False,III,True,False,female
+60,anterior torso,benign,6.5,contact polarized,seborrheic keratosis,False,II,False,True,male
+25,posterior torso,benign,4.8,contact polarized,nevus,True,II,True,False,female
+45,lower extremity,benign,4.0,contact polarized,nevus,True,III,True,False,male
+40,lower extremity,benign,5.2,contact polarized,nevus,True,II,True,False,female
+20,lower extremity,benign,3.8,non-contact polarized,nevus,False,II,True,True,female
+40,upper extremity,benign,5.6,contact polarized,nevus,True,II,True,True,female
+65,posterior torso,benign,3.5,contact non-polarized,nevus,False,II,True,False,female
+65,posterior torso,malignant,8.0,contact polarized,melanoma,True,I,True,True,male
+35,posterior torso,benign,7.4,contact non-polarized,nevus,True,II,True,True,male
+75,posterior torso,benign,4.2,non-contact polarized,nevus,False,II,True,True,female
+80,head/neck,benign,7.9,contact polarized,seborrheic keratosis,False,II,False,False,male
+70,upper extremity,benign,8.0,contact polarized,seborrheic keratosis,False,II,True,True,male
+75,upper extremity,indeterminate/benign,4.6,contact polarized,atypical melanocytic proliferation,False,III,True,False,male
+80,posterior torso,benign,9.4,contact polarized,lichenoid keratosis,True,III,True,False,female
+55,upper extremity,benign,5.7,contact polarized,lentigo NOS,False,II,True,False,female
+70,upper extremity,malignant,20.0,contact polarized,melanoma,True,II,True,False,male
+55,lower extremity,benign,2.3,contact non-polarized,nevus,True,III,True,False,female
+25,posterior torso,benign,5.7,contact polarized,nevus,False,II,True,False,female
+70,upper extremity,benign,3.7,contact polarized,nevus,True,II,True,True,female
+55,posterior torso,benign,2.2,contact polarized,nevus,True,II,True,False,female
+65,posterior torso,benign,7.2,contact polarized,nevus,False,III,True,True,male
+60,posterior torso,benign,6.7,contact polarized,nevus,False,IV,True,False,male
+40,upper extremity,benign,2.7,contact polarized,nevus,False,III,True,False,female
+50,upper extremity,benign,4.9,contact polarized,nevus,False,II,True,False,female
+75,upper extremity,benign,3.3,contact polarized,nevus,False,III,True,True,male
+65,posterior torso,benign,4.3,contact polarized,nevus,False,II,True,False,female
+60,anterior torso,benign,6.2,contact non-polarized,seborrheic keratosis,False,III,True,True,female
+75,lower extremity,benign,4.8,contact polarized,seborrheic keratosis,False,III,False,False,female
+75,anterior torso,benign,7.3,contact polarized,lichenoid keratosis,True,II,False,True,male
+70,lower extremity,benign,11.3,contact polarized,nevus,False,II,True,False,female
+85,anterior torso,benign,5.3,contact polarized,seborrheic keratosis,False,III,True,True,female
+75,lower extremity,benign,2.7,contact polarized,actinic keratosis,True,II,False,True,female
+65,posterior torso,benign,7.2,contact polarized,nevus,False,II,True,True,female
+55,anterior torso,benign,3.0,contact polarized,nevus,False,III,True,True,male
+80,anterior torso,benign,4.2,contact polarized,nevus,True,III,True,True,male
+80,posterior torso,benign,3.8,contact polarized,seborrheic keratosis,False,III,False,True,male
+85,lower extremity,benign,3.6,contact polarized,lentigo NOS,True,II,True,True,female
+70,head/neck,benign,2.9,contact non-polarized,angiofibroma or fibrous papule,False,IV,False,False,male
+60,upper extremity,benign,4.4,contact polarized,nevus,True,II,True,False,female
+75,head/neck,benign,2.9,contact non-polarized,lentigo NOS,False,III,True,False,male
+50,lower extremity,indeterminate/benign,3.0,contact polarized,nevus,True,III,True,True,female
+60,posterior torso,benign,5.8,contact polarized,lichenoid keratosis,False,III,False,True,female
+75,lower extremity,benign,4.0,contact polarized,nevus,False,II,True,True,female
+45,posterior torso,benign,8.0,non-contact polarized,nevus,True,IV,True,False,male
+25,palms/soles,benign,1.1,contact polarized,lentigo NOS,False,III,True,True,female
+75,anterior torso,indeterminate/malignant,9.7,contact non-polarized,melanoma,False,II,True,True,female
+65,upper extremity,benign,3.5,contact polarized,atypical melanocytic proliferation,False,III,True,True,female
+70,anterior torso,benign,3.6,contact polarized,nevus,True,III,True,True,male
+75,upper extremity,malignant,10.4,contact non-polarized,melanoma,False,II,True,True,male
+75,anterior torso,malignant,8.9,contact non-polarized,squamous cell carcinoma,False,II,False,True,female
+30,upper extremity,benign,3.8,non-contact polarized,nevus,True,II,True,True,female
+55,head/neck,malignant,5.0,contact non-polarized,basal cell carcinoma,False,III,False,True,female
+50,posterior torso,benign,4.8,contact polarized,nevus,False,II,True,True,female
+30,lower extremity,benign,2.3,contact polarized,nevus,True,II,True,False,female
+85,head/neck,benign,17.9,contact non-polarized,lentigo NOS,False,II,True,False,male
+75,lateral torso,benign,17.9,contact polarized,nevus,False,II,True,False,female
+35,posterior torso,benign,3.4,contact non-polarized,nevus,True,II,True,False,female
+40,lower extremity,benign,2.6,contact polarized,nevus,False,II,True,False,female
+65,upper extremity,malignant,3.7,contact polarized,squamous cell carcinoma,False,II,False,True,female
+75,upper extremity,indeterminate/benign,7.1,contact polarized,nevus,False,II,True,True,female
+35,posterior torso,benign,5.6,non-contact polarized,nevus,False,II,True,True,male
+55,posterior torso,benign,2.3,contact non-polarized,nevus,True,II,True,True,female
+40,anterior torso,benign,3.9,contact polarized,nevus,True,II,True,False,female
+65,anterior torso,benign,5.3,contact polarized,nevus,False,III,True,False,male
+55,head/neck,benign,11.5,contact polarized,actinic keratosis,False,II,True,False,female
+70,head/neck,benign,11.3,contact polarized,lentigo NOS,False,III,True,False,male
+75,upper extremity,benign,5.0,contact non-polarized,nevus,False,II,True,False,female
+55,posterior torso,benign,4.0,contact polarized,nevus,False,II,True,False,male
+70,posterior torso,benign,4.3,contact polarized,nevus,True,II,True,False,female
+75,lower extremity,benign,4.8,contact polarized,nevus,False,II,True,False,female
+55,posterior torso,benign,3.7,contact polarized,seborrheic keratosis,True,III,True,True,male
+35,lateral torso,benign,5.6,contact non-polarized,nevus,False,II,True,True,male
+55,lower extremity,benign,5.2,contact polarized,nevus,False,II,True,True,male
+45,posterior torso,benign,12.5,contact polarized,atypical melanocytic proliferation,True,I,True,False,female
+30,lower extremity,benign,6.6,non-contact polarized,nevus,True,II,True,True,female
+60,lower extremity,indeterminate/benign,5.3,contact polarized,atypical melanocytic proliferation,False,II,True,True,male
+65,posterior torso,benign,8.4,contact polarized,nevus,False,III,True,False,male
+65,anterior torso,benign,9.8,contact polarized,nevus,False,III,True,True,male
+80,upper extremity,benign,10.5,contact polarized,lichenoid keratosis,False,II,True,False,female
+70,upper extremity,malignant,12.9,contact polarized,melanoma,False,I,True,True,male
+70,lower extremity,benign,3.1,contact polarized,lentigo NOS,False,II,True,False,female
+50,lower extremity,malignant,3.8,contact polarized,basal cell carcinoma,False,II,False,False,female
+50,anterior torso,benign,8.6,contact polarized,nevus,True,III,True,True,female
+55,anterior torso,benign,5.0,contact polarized,nevus,False,III,True,False,female
+70,head/neck,benign,4.7,contact polarized,nevus,True,II,True,False,female
+70,upper extremity,malignant,2.5,contact non-polarized,melanoma,True,I,True,False,female
+55,posterior torso,benign,4.7,contact polarized,nevus,True,II,True,True,female
+80,lower extremity,benign,7.8,contact polarized,actinic keratosis,False,II,False,True,male
+40,posterior torso,benign,4.6,contact polarized,nevus,True,II,True,False,female
+50,lower extremity,benign,6.5,contact polarized,nevus,True,II,True,False,female
+60,upper extremity,benign,4.7,contact polarized,nevus,False,II,True,False,female
+55,upper extremity,benign,5.7,contact non-polarized,dermatofibroma,True,I,False,False,female
+80,palms/soles,benign,1.9,contact polarized,nevus,False,II,True,False,female
+75,lower extremity,benign,2.4,contact polarized,lentigo NOS,False,III,True,False,female
+80,upper extremity,benign,19.4,contact non-polarized,nevus,False,IV,True,True,male
+65,lateral torso,benign,7.3,contact polarized,seborrheic keratosis,False,II,False,False,female
+65,upper extremity,benign,8.0,non-contact polarized,lentigo NOS,False,II,True,True,male
+60,upper extremity,benign,6.6,contact polarized,nevus,False,III,True,False,male
+75,posterior torso,indeterminate/benign,6.7,contact non-polarized,nevus,False,II,True,True,female
+25,anterior torso,benign,4.8,contact polarized,nevus,True,II,True,False,female
+40,posterior torso,benign,7.6,contact polarized,nevus,False,II,True,False,female
+35,posterior torso,benign,4.3,contact non-polarized,nevus,True,II,True,True,male
+30,lower extremity,benign,2.5,contact polarized,nevus,True,II,True,False,female
+75,upper extremity,benign,9.3,contact polarized,lentigo NOS,False,II,True,True,male
+55,posterior torso,benign,6.1,contact polarized,nevus,False,II,True,False,female
+75,anterior torso,benign,7.1,contact polarized,nevus,False,II,True,True,female
+55,posterior torso,indeterminate/malignant,9.8,contact polarized,melanoma,False,III,True,True,male
+70,head/neck,indeterminate/benign,5.2,non-contact polarized,lentigo NOS,False,II,True,False,female
+50,head/neck,benign,1.6,contact polarized,nevus,True,II,True,True,female
+70,head/neck,malignant,5.4,contact non-polarized,melanoma,False,I,True,True,female
+75,upper extremity,benign,4.2,contact polarized,actinic keratosis,True,II,False,False,male
+80,lower extremity,malignant,4.2,contact polarized,squamous cell carcinoma,False,II,False,True,female
+35,head/neck,benign,2.1,contact polarized,nevus,False,II,True,True,male
+55,posterior torso,benign,5.4,contact polarized,nevus,False,II,True,True,male
+65,posterior torso,malignant,13.1,contact polarized,melanoma,False,III,True,True,male
+75,upper extremity,indeterminate/benign,4.0,contact polarized,nevus,False,II,True,True,female
+35,anterior torso,benign,9.6,contact polarized,nevus,False,III,True,False,male
+75,posterior torso,malignant,5.0,contact non-polarized,melanoma,True,III,True,True,male
+45,lower extremity,benign,3.4,contact polarized,nevus,True,III,True,False,female
+60,posterior torso,benign,4.6,contact polarized,nevus,False,III,True,False,male
+35,lateral torso,benign,4.4,contact polarized,nevus,False,II,True,True,female
+70,upper extremity,benign,9.8,non-contact polarized,lentigo NOS,False,II,True,False,male
+25,lower extremity,benign,5.4,contact polarized,nevus,True,I,True,True,female
+50,upper extremity,benign,5.3,contact polarized,nevus,True,II,True,False,female
+60,posterior torso,benign,5.8,contact polarized,nevus,False,III,True,False,male
+70,anterior torso,benign,7.4,contact polarized,nevus,True,II,True,False,female
+80,head/neck,benign,17.5,contact non-polarized,seborrheic keratosis,False,II,False,False,male
+75,anterior torso,malignant,6.3,contact polarized,melanoma,True,IV,True,True,male
+45,lower extremity,benign,3.0,contact polarized,nevus,False,III,True,False,female
+45,head/neck,indeterminate/benign,5.7,contact polarized,atypical melanocytic proliferation,True,II,True,False,male
+65,posterior torso,indeterminate/benign,13.6,contact polarized,atypical melanocytic proliferation,False,III,True,False,male
+40,posterior torso,benign,5.9,contact polarized,nevus,True,II,True,False,female
+80,lower extremity,malignant,10.4,non-contact polarized,melanoma,False,II,True,True,male
+65,head/neck,indeterminate/benign,4.1,contact polarized,atypical melanocytic proliferation,False,III,True,False,female
+30,posterior torso,benign,7.1,contact polarized,nevus,True,II,True,False,female
+65,posterior torso,indeterminate/benign,7.7,contact polarized,atypical melanocytic proliferation,False,II,True,False,female
+55,upper extremity,benign,5.2,contact polarized,nevus,True,II,True,True,female
+20,posterior torso,benign,6.0,contact polarized,nevus,False,II,True,False,male
+55,lower extremity,indeterminate/malignant,6.7,contact non-polarized,melanoma,True,II,True,True,male
+60,posterior torso,benign,4.9,non-contact polarized,nevus,False,IV,True,False,male
+60,posterior torso,malignant,6.3,contact polarized,melanoma,False,II,True,False,male
+55,head/neck,malignant,5.3,contact polarized,melanoma,False,II,True,False,male
+35,lower extremity,benign,3.8,contact polarized,nevus,False,II,True,True,male
+20,posterior torso,benign,5.1,contact polarized,nevus,True,II,True,False,female
+75,anterior torso,benign,6.4,contact polarized,actinic keratosis,False,II,False,True,female
+30,lower extremity,benign,6.6,non-contact polarized,nevus,True,II,True,True,female
+65,lateral torso,benign,6.9,contact polarized,nevus,False,III,True,False,male
+45,posterior torso,benign,4.9,contact polarized,nevus,False,III,True,True,female
+45,posterior torso,benign,5.5,contact polarized,nevus,True,III,True,False,female
+85,posterior torso,malignant,4.7,contact non-polarized,basal cell carcinoma,False,II,False,False,male
+80,lower extremity,malignant,10.4,contact polarized,melanoma,False,II,True,True,male
+55,lower extremity,indeterminate/malignant,12.8,contact polarized,melanoma,False,II,True,False,male
+60,posterior torso,malignant,7.8,contact polarized,melanoma,False,II,True,True,male
+75,anterior torso,malignant,7.4,contact non-polarized,basal cell carcinoma,False,II,False,False,female
+75,lower extremity,benign,3.7,contact polarized,lentigo NOS,True,II,True,True,male
+70,posterior torso,malignant,11.4,contact polarized,melanoma,False,II,True,False,male
+30,lower extremity,benign,6.6,contact polarized,nevus,True,II,True,True,female
+45,upper extremity,malignant,5.9,contact non-polarized,melanoma,False,III,True,True,male
+80,head/neck,benign,7.1,contact polarized,actinic keratosis,False,II,False,True,male
+50,posterior torso,benign,5.9,contact polarized,lentigo NOS,True,II,True,False,female
+65,posterior torso,benign,4.0,contact polarized,nevus,True,II,True,True,female
+80,lower extremity,malignant,8.3,contact polarized,melanoma,True,II,True,True,female
+70,lower extremity,benign,1.9,contact polarized,nevus,False,III,True,False,female
+70,lower extremity,benign,2.9,contact polarized,nevus,False,I,True,False,female
+55,posterior torso,benign,4.5,contact polarized,lichenoid keratosis,True,II,False,False,female
+35,anterior torso,malignant,10.8,contact polarized,melanoma,False,I,True,True,female
+40,posterior torso,benign,8.5,contact polarized,nevus,True,II,True,False,female
+80,posterior torso,malignant,14.6,contact polarized,melanoma,False,I,True,True,female
+60,head/neck,malignant,5.0,contact polarized,melanoma,False,II,True,True,male
+65,lower extremity,indeterminate/malignant,8.7,contact polarized,melanoma,True,II,True,True,female
+45,anterior torso,benign,5.5,contact polarized,nevus,True,II,True,True,male
+75,anterior torso,malignant,10.2,contact polarized,melanoma,True,II,True,True,male
+80,lower extremity,malignant,10.4,contact non-polarized,melanoma,False,II,True,True,male
+75,upper extremity,benign,5.2,contact polarized,nevus,False,II,True,True,female
+80,posterior torso,benign,7.2,contact polarized,nevus,False,III,True,True,male
+65,upper extremity,benign,8.3,contact polarized,nevus,False,III,True,False,male
+30,anterior torso,benign,6.2,contact polarized,nevus,True,II,True,False,female
+60,anterior torso,malignant,8.7,contact polarized,melanoma,False,II,True,True,male
+35,lower extremity,benign,3.9,contact non-polarized,nevus,True,III,True,False,female
+75,upper extremity,benign,3.3,contact polarized,lentigo NOS,True,II,True,False,female
+45,posterior torso,malignant,13.8,contact polarized,basal cell carcinoma,False,II,False,False,female
+55,posterior torso,benign,4.5,non-contact polarized,lentigo NOS,False,II,True,False,male
+40,upper extremity,benign,5.9,non-contact polarized,lichenoid keratosis,False,I,False,True,female
+75,posterior torso,benign,3.1,contact polarized,clear cell acanthoma,False,II,False,True,male
+75,posterior torso,malignant,9.4,contact polarized,melanoma,True,II,True,True,male
+65,posterior torso,benign,5.6,contact polarized,nevus,False,II,True,False,male
+50,upper extremity,benign,4.8,contact non-polarized,nevus,False,II,True,False,male
+70,upper extremity,indeterminate/benign,4.6,contact polarized,atypical melanocytic proliferation,False,II,True,False,female
+80,anterior torso,malignant,10.1,non-contact polarized,melanoma,False,II,True,True,male
+75,upper extremity,benign,4.7,contact polarized,nevus,False,II,True,True,female
+30,lower extremity,benign,6.6,non-contact polarized,nevus,True,II,True,True,female
+45,lower extremity,indeterminate/benign,2.7,contact polarized,atypical melanocytic proliferation,False,II,True,True,female
+80,upper extremity,benign,3.6,contact polarized,actinic keratosis,False,II,False,True,female
+40,posterior torso,benign,11.0,contact polarized,nevus,True,I,True,True,male
+85,posterior torso,indeterminate/benign,10.2,contact polarized,atypical melanocytic proliferation,False,III,True,True,female
+35,lower extremity,malignant,5.6,contact non-polarized,squamous cell carcinoma,False,I,False,True,female
+50,posterior torso,benign,8.3,non-contact polarized,nevus,False,II,True,True,female
+30,lower extremity,benign,4.4,contact polarized,nevus,True,II,True,False,female
+55,anterior torso,benign,5.8,contact polarized,actinic keratosis,False,II,False,False,female
+20,lower extremity,benign,4.5,contact polarized,nevus,False,II,True,True,female
+60,anterior torso,benign,3.8,contact polarized,nevus,True,IV,True,False,female
+80,head/neck,indeterminate/malignant,11.2,contact polarized,melanoma,False,II,True,True,male
+75,upper extremity,malignant,8.3,contact non-polarized,melanoma,False,II,True,False,female
+75,lateral torso,benign,3.9,contact polarized,nevus,True,III,True,True,male
+65,anterior torso,benign,5.1,contact polarized,lentigo NOS,False,III,True,True,female
+70,posterior torso,benign,3.3,contact polarized,seborrheic keratosis,False,III,False,True,female
+60,posterior torso,benign,9.5,contact polarized,nevus,False,IV,True,True,male
+25,lower extremity,benign,3.4,contact polarized,nevus,True,II,True,False,male
+50,posterior torso,benign,5.3,contact polarized,nevus,False,III,True,False,male
+70,posterior torso,malignant,11.2,contact non-polarized,melanoma,False,IV,True,True,male
+70,anterior torso,benign,7.5,contact polarized,lichenoid keratosis,True,II,False,True,female
+65,lateral torso,benign,4.1,contact polarized,nevus,True,II,True,True,female
+80,lower extremity,malignant,8.7,contact non-polarized,melanoma,False,I,True,True,female
+65,lower extremity,benign,6.7,contact polarized,lichenoid keratosis,False,III,False,False,male
+55,posterior torso,malignant,6.8,contact polarized,basal cell carcinoma,False,II,False,True,male
+65,lower extremity,benign,4.8,contact polarized,lentigo NOS,True,II,True,False,female
+70,upper extremity,benign,4.1,contact polarized,nevus,False,II,True,False,female
+55,upper extremity,benign,7.6,contact polarized,nevus,True,III,True,True,male
+55,lower extremity,benign,8.8,contact polarized,lentigo NOS,False,III,True,True,female
+65,lower extremity,indeterminate/malignant,8.7,contact polarized,melanoma,True,II,True,True,female
+55,upper extremity,benign,6.6,contact non-polarized,nevus,True,III,True,True,male
+60,upper extremity,benign,3.5,contact polarized,nevus,True,II,True,False,female
+55,head/neck,malignant,5.9,contact polarized,melanoma,False,II,True,True,male
+80,posterior torso,malignant,16.0,contact polarized,melanoma,False,II,True,True,male
+85,lower extremity,benign,5.0,contact polarized,lentigo NOS,True,II,True,True,female
+80,lower extremity,benign,6.0,contact polarized,dermatofibroma,False,I,False,True,male
+50,head/neck,indeterminate/benign,2.9,contact polarized,atypical melanocytic proliferation,True,III,True,True,female
+75,head/neck,benign,6.1,contact polarized,actinic keratosis,False,II,False,False,male
+50,lower extremity,benign,4.1,contact polarized,nevus,False,III,True,False,male
+55,lower extremity,benign,5.0,contact polarized,nevus,True,III,True,False,male
+50,lower extremity,benign,3.9,contact polarized,nevus,True,I,True,True,female
+85,lower extremity,benign,4.4,contact polarized,lentigo NOS,True,II,True,True,female
+75,posterior torso,benign,10.0,contact polarized,lichenoid keratosis,False,III,False,False,male
+55,anterior torso,benign,6.6,contact non-polarized,nevus,True,IV,True,True,female
+30,anterior torso,benign,4.0,contact non-polarized,nevus,True,III,True,False,female
+55,lateral torso,benign,7.6,contact polarized,nevus,False,II,True,True,male
+70,lower extremity,benign,15.9,contact polarized,lentigo NOS,False,II,True,False,male
+70,lower extremity,benign,4.4,contact polarized,dermatofibroma,False,II,False,True,male
+50,lateral torso,benign,4.1,contact polarized,nevus,True,III,True,True,female
+55,anterior torso,benign,6.0,contact polarized,nevus,True,III,True,False,female
+60,posterior torso,benign,5.3,non-contact polarized,nevus,False,IV,True,False,male
+55,upper extremity,benign,3.2,contact polarized,nevus,False,III,True,False,female
+75,posterior torso,benign,12.2,contact non-polarized,lichenoid keratosis,False,II,False,True,male
+65,upper extremity,benign,11.2,contact polarized,lichenoid keratosis,False,II,False,False,female
+70,posterior torso,benign,15.5,contact polarized,nevus,True,III,True,True,male
+65,posterior torso,malignant,9.6,contact polarized,melanoma,True,I,True,True,male
+45,posterior torso,indeterminate/malignant,7.8,contact non-polarized,melanoma,False,II,True,False,male
+45,anterior torso,benign,3.2,contact polarized,nevus,True,III,True,False,male
+50,lower extremity,benign,7.1,contact non-polarized,actinic keratosis,True,II,False,False,female
+65,head/neck,malignant,10.2,contact polarized,melanoma,False,I,True,True,male
+45,upper extremity,indeterminate/benign,2.8,contact polarized,atypical melanocytic proliferation,False,III,True,True,female
+55,upper extremity,benign,4.7,contact polarized,nevus,False,III,True,False,female
+80,anterior torso,indeterminate/benign,5.0,contact polarized,atypical melanocytic proliferation,True,III,True,True,male
+80,anterior torso,benign,8.3,contact polarized,seborrheic keratosis,False,III,True,False,female
+55,anterior torso,benign,5.6,contact polarized,nevus,False,III,True,False,male
+30,posterior torso,benign,9.4,contact non-polarized,nevus,True,II,True,False,female
+65,lateral torso,benign,4.6,contact polarized,nevus,False,II,True,False,male
+65,upper extremity,malignant,4.8,contact polarized,melanoma,False,II,True,True,female
+65,posterior torso,benign,5.0,contact polarized,nevus,False,III,True,True,male
+50,upper extremity,benign,5.9,contact non-polarized,nevus,True,II,True,True,male
+65,upper extremity,benign,6.3,contact polarized,dermatofibroma,False,II,False,True,female
+65,lateral torso,benign,7.5,non-contact polarized,nevus,True,II,True,True,male
+65,posterior torso,malignant,12.2,contact polarized,melanoma,False,II,True,True,female
+65,posterior torso,benign,3.8,contact polarized,nevus,True,II,True,False,female
+40,lateral torso,benign,4.2,contact non-polarized,nevus,True,II,True,True,female
+60,lower extremity,malignant,4.8,contact polarized,melanoma,True,II,True,False,female
+70,lower extremity,benign,4.9,contact polarized,nevus,False,IV,True,False,male
+45,posterior torso,benign,5.7,contact polarized,nevus,True,II,True,True,male
+70,posterior torso,malignant,10.4,contact polarized,melanoma,False,I,True,True,male
+75,posterior torso,malignant,5.8,non-contact polarized,melanoma,True,II,True,True,male
+80,upper extremity,indeterminate/benign,3.1,contact polarized,atypical melanocytic proliferation,False,I,True,False,female
+65,lower extremity,malignant,3.4,contact polarized,melanoma,True,II,True,False,female
+65,upper extremity,benign,6.4,contact polarized,lentigo NOS,False,II,True,True,female
+55,upper extremity,malignant,9.0,non-contact polarized,squamous cell carcinoma,False,I,False,True,female
+50,lower extremity,benign,7.0,contact non-polarized,dermatofibroma,True,I,False,False,female
+50,lower extremity,benign,9.3,contact polarized,nevus,False,III,True,False,female
+30,upper extremity,benign,4.1,contact polarized,nevus,True,II,True,False,male
+50,posterior torso,benign,4.4,contact non-polarized,nevus,False,III,True,False,male
+40,upper extremity,benign,1.5,contact polarized,nevus,False,III,True,False,male
+75,lower extremity,benign,10.2,contact non-polarized,seborrheic keratosis,False,II,False,False,male
+40,lower extremity,benign,1.8,non-contact polarized,nevus,False,II,True,False,female
+65,posterior torso,benign,3.9,contact polarized,lentigo NOS,False,II,True,False,female
+55,upper extremity,benign,5.4,contact polarized,nevus,True,III,True,True,male
+70,posterior torso,benign,6.8,contact polarized,seborrheic keratosis,False,III,False,False,male
+30,lower extremity,benign,6.6,non-contact polarized,nevus,True,II,True,True,female
+60,lower extremity,benign,3.6,contact polarized,nevus,False,III,True,True,female
+50,posterior torso,benign,3.8,contact polarized,nevus,False,III,True,True,male
+65,lower extremity,benign,4.9,contact polarized,nevus,True,III,True,False,female
+35,anterior torso,benign,3.3,contact polarized,nevus,False,III,True,False,female
+55,upper extremity,benign,6.6,contact polarized,lentigo NOS,True,II,True,True,female
+55,anterior torso,benign,2.8,contact polarized,nevus,False,III,True,False,female
+65,head/neck,benign,3.5,contact polarized,nevus,False,III,True,True,male
+80,head/neck,benign,2.2,contact polarized,seborrheic keratosis,False,III,False,False,male
+55,lower extremity,benign,2.8,contact polarized,nevus,False,III,True,False,male
+35,upper extremity,malignant,6.9,contact polarized,melanoma,False,III,True,False,male
+80,anterior torso,benign,8.8,contact polarized,lichenoid keratosis,False,III,True,True,female
+70,anterior torso,benign,8.2,contact polarized,seborrheic keratosis,False,IV,False,False,male
+75,posterior torso,indeterminate/malignant,6.4,non-contact polarized,melanoma,False,I,True,True,female
+85,head/neck,malignant,13.2,contact polarized,melanoma,False,III,True,True,male
+80,anterior torso,benign,7.8,contact polarized,seborrheic keratosis,True,III,True,True,male
+55,posterior torso,malignant,8.1,contact non-polarized,melanoma,True,III,True,True,male
+65,lower extremity,indeterminate/malignant,8.7,contact non-polarized,melanoma,True,II,True,True,female
+75,anterior torso,malignant,9.0,contact polarized,squamous cell carcinoma,False,II,False,True,male
+70,lateral torso,benign,7.7,contact polarized,nevus,True,III,True,True,male
+75,lower extremity,benign,6.0,non-contact polarized,lichenoid keratosis,False,II,True,False,female
+60,anterior torso,benign,7.7,contact polarized,nevus,False,IV,True,False,male
+60,head/neck,malignant,5.8,contact polarized,melanoma,False,II,True,False,male
+40,upper extremity,benign,5.9,contact polarized,nevus,True,II,True,True,female
+65,head/neck,malignant,9.5,contact non-polarized,melanoma,False,III,True,False,male
+55,head/neck,malignant,10.6,contact polarized,melanoma,True,IV,True,False,male
+65,lower extremity,indeterminate/malignant,8.7,contact non-polarized,melanoma,True,II,True,True,female
+65,lower extremity,indeterminate/malignant,8.7,non-contact polarized,melanoma,True,II,True,True,female
+70,lower extremity,benign,5.4,non-contact polarized,lentigo NOS,True,III,True,True,female
+60,lower extremity,benign,5.0,contact polarized,nevus,False,III,True,False,male
+60,posterior torso,benign,4.8,contact polarized,nevus,False,III,True,False,female
+50,upper extremity,benign,3.0,non-contact polarized,nevus,False,I,True,True,female
+30,posterior torso,benign,3.0,contact polarized,nevus,False,II,True,False,female
+50,anterior torso,benign,5.7,contact polarized,nevus,True,II,True,False,male
+75,posterior torso,benign,7.5,contact polarized,seborrheic keratosis,False,II,False,True,male
+55,posterior torso,benign,3.7,contact polarized,lichenoid keratosis,False,II,False,False,female
+55,lower extremity,malignant,8.0,contact polarized,melanoma,False,II,True,False,female
+50,anterior torso,indeterminate/benign,7.8,contact polarized,atypical melanocytic proliferation,False,III,True,False,female
+55,posterior torso,benign,7.3,contact polarized,nevus,True,II,True,False,male
+75,lower extremity,benign,12.8,contact polarized,seborrheic keratosis,True,II,True,True,female
+50,upper extremity,benign,3.5,contact polarized,nevus,True,II,True,True,male
+60,posterior torso,malignant,8.9,contact polarized,melanoma,False,II,True,True,male
+85,upper extremity,malignant,4.9,contact polarized,squamous cell carcinoma,False,III,False,False,male
+65,posterior torso,indeterminate/benign,9.2,contact polarized,nevus,False,III,True,False,male
+60,head/neck,indeterminate/malignant,4.8,contact polarized,melanoma,True,II,True,True,male
+65,posterior torso,indeterminate/benign,8.4,contact polarized,atypical melanocytic proliferation,False,II,True,False,female
+70,head/neck,benign,8.3,non-contact polarized,lentigo NOS,False,III,True,False,male
+70,posterior torso,benign,3.5,contact polarized,nevus,False,III,True,True,male
+40,anterior torso,benign,4.5,contact polarized,nevus,True,III,True,True,female
+50,lower extremity,benign,4.5,contact polarized,nevus,True,II,True,True,male
+75,lower extremity,benign,10.1,contact polarized,seborrheic keratosis,False,II,True,True,female
+70,anterior torso,benign,4.8,contact polarized,nevus,False,III,True,False,male
+65,head/neck,benign,1.5,contact polarized,seborrheic keratosis,False,II,True,False,male
+55,anterior torso,benign,2.7,contact polarized,nevus,True,II,True,True,female
+75,posterior torso,benign,7.3,contact non-polarized,nevus,True,II,True,True,male
+65,posterior torso,benign,5.0,contact polarized,nevus,False,III,True,True,female
+45,anterior torso,benign,4.1,contact non-polarized,nevus,True,II,True,True,male
+85,head/neck,indeterminate/benign,6.0,contact non-polarized,atypical melanocytic proliferation,False,III,True,True,female
+80,anterior torso,benign,5.5,contact polarized,seborrheic keratosis,False,II,False,True,male
+65,lateral torso,indeterminate/benign,8.4,contact polarized,atypical melanocytic proliferation,True,II,True,True,male
+75,lower extremity,benign,7.2,contact polarized,seborrheic keratosis,True,III,False,False,male
+40,posterior torso,benign,5.8,contact polarized,nevus,False,II,True,False,female
+80,posterior torso,malignant,19.1,contact non-polarized,melanoma,False,III,True,True,male
+60,posterior torso,benign,3.9,non-contact polarized,nevus,True,II,True,True,male
+30,anterior torso,benign,2.5,non-contact polarized,nevus,True,II,True,False,female
+65,anterior torso,benign,7.5,contact polarized,nevus,True,II,True,True,female
+60,head/neck,indeterminate/benign,5.2,contact polarized,atypical melanocytic proliferation,True,II,True,False,male
+75,posterior torso,malignant,5.8,contact non-polarized,melanoma,False,I,True,True,male
+40,posterior torso,benign,3.2,contact polarized,nevus,True,II,True,False,female
+85,head/neck,benign,3.6,contact polarized,actinic keratosis,False,III,False,False,male
+40,upper extremity,benign,5.7,contact polarized,nevus,False,III,True,False,male
+35,posterior torso,benign,4.0,contact polarized,nevus,True,II,True,True,female
+50,posterior torso,benign,5.2,contact polarized,nevus,True,III,True,True,female
+80,lateral torso,benign,2.9,contact polarized,nevus,False,III,True,True,female
+45,head/neck,benign,10.9,contact polarized,nevus,False,IV,True,False,female
+55,lower extremity,benign,3.7,contact polarized,nevus,False,III,True,True,female
+55,lower extremity,benign,1.7,contact polarized,nevus,False,III,True,False,male
+60,posterior torso,benign,4.1,contact polarized,nevus,False,II,True,True,male
+70,anterior torso,benign,14.7,non-contact polarized,scar,False,I,False,True,female
+45,palms/soles,benign,3.8,contact polarized,nevus,False,III,True,True,female
+65,posterior torso,benign,3.6,contact polarized,nevus,False,I,True,True,male
+50,lower extremity,benign,3.3,contact polarized,nevus,True,III,True,False,female
+60,upper extremity,benign,6.0,contact polarized,lentigo NOS,False,II,True,False,female
+50,posterior torso,benign,6.8,contact polarized,nevus,True,II,True,False,female
+65,posterior torso,malignant,14.5,non-contact polarized,melanoma,False,II,True,False,male
+50,head/neck,indeterminate/benign,3.8,contact polarized,nevus,True,II,True,True,male
+55,head/neck,benign,10.1,contact polarized,actinic keratosis,True,II,True,True,male
+70,head/neck,benign,1.4,contact polarized,lentigo NOS,False,IV,True,False,male
+50,posterior torso,benign,8.4,contact polarized,nevus,False,II,True,False,male
+75,anterior torso,benign,7.1,non-contact polarized,lichenoid keratosis,False,III,True,False,male
+75,upper extremity,malignant,6.8,contact polarized,melanoma,False,II,True,True,female
+55,upper extremity,benign,9.4,contact polarized,seborrheic keratosis,True,III,False,True,male
+75,lower extremity,malignant,4.3,contact polarized,melanoma,True,II,True,True,female
+65,posterior torso,benign,4.4,contact polarized,nevus,False,II,True,False,female
+60,lower extremity,benign,2.8,contact polarized,nevus,False,III,True,False,female
+60,posterior torso,benign,5.3,contact polarized,nevus,False,IV,True,False,male

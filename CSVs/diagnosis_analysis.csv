@@ -1,0 +1,627 @@
+diagnosis,diagnosis_1,diagnosis_2,diagnosis_3,diagnosis_4,diagnosis_5
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,?,?
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+nevus,Benign,nv,Nevus,?,?
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+nv,?,nv,nv,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+mel,?,mel,mel,?,?
+nv,?,nv,nv,?,?
+nevus,Benign,nv,Nevus,?,?
+mel,?,mel,mel,?,?
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+mel,?,mel,mel,?,?
+mel,?,mel,mel,?,?
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nv,?,nv,nv,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+bkl,Benign,Collision - Only benign proliferations,?,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,?,?
+nevus,Benign,nv,Nevus,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,Collision - Only benign proliferations,?,?,?
+nv,?,nv,nv,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+actinic keratosis,?,?,bkl,?,?
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+nv,?,nv,nv,?,?
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+actinic keratosis,?,?,bkl,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+bcc,?,?,bcc,?,?
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+nevus,Benign,nv,Nevus,?,?
+mel,?,mel,mel,?,?
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+actinic keratosis,?,?,bkl,?,?
+df,Benign,Benign soft tissue proliferations - Fibro-histiocytic,df,?,?
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+df,Benign,Benign soft tissue proliferations - Fibro-histiocytic,df,?,?
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+nevus,Benign,nv,Nevus,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,?,?
+verruca,Benign,Inflammatory or infectious diseases,Verruca,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+bkl,Benign,Collision - Only benign proliferations,?,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+mel,?,mel,mel,?,?
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+squamous cell carcinoma,?,?,Squamous cell carcinoma in situ,?,?
+nevus,Benign,nv,Nevus,?,?
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+bkl,Benign,Collision - Only benign proliferations,?,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+squamous cell carcinoma,?,?,Squamous cell carcinoma in situ,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+nv,?,nv,nv,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+vasc,Benign,Benign soft tissue proliferations - Vascular,vasc,?,?
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nv,?,nv,nv,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+squamous cell carcinoma,?,?,?,?,?
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+bcc,?,?,bcc,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+df,Benign,Benign soft tissue proliferations - Fibro-histiocytic,df,?,?
+df,Benign,Benign soft tissue proliferations - Fibro-histiocytic,df,?,?
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+squamous cell carcinoma,?,?,Squamous cell carcinoma in situ,?,?
+mel,?,mel,mel,?,?
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+nevus,Benign,Collision - Only benign proliferations,?,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+verruca,Benign,Inflammatory or infectious diseases,Verruca,?,?
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+actinic keratosis,?,?,bkl,?,?
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,Collision - Only benign proliferations,?,?,?
+nevus,Benign,nv,Nevus,?,?
+mel,?,mel,mel,?,?
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+bcc,?,?,bcc,?,?
+mel,?,mel,mel,?,?
+nevus,Benign,Collision - Only benign proliferations,?,?,?
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+nevus,Benign,nv,Nevus,?,?
+actinic keratosis,?,?,bkl,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+df,Benign,Benign soft tissue proliferations - Fibro-histiocytic,df,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Spitz",?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+bkl,Benign,Collision - Only benign proliferations,?,?,?
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+nv,?,nv,nv,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+squamous cell carcinoma,?,?,Squamous cell carcinoma in situ,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+actinic keratosis,?,?,bkl,?,?
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Combined",?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,?,?
+mel,?,mel,mel,?,?
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+actinic keratosis,?,?,bkl,?,?
+mel,?,mel,mel,?,?
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+df,Benign,Benign soft tissue proliferations - Fibro-histiocytic,df,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+nevus,Benign,nv,Nevus,?,?
+nevus,Benign,nv,Nevus,"Nevus, Combined",?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+bkl,Benign,Collision - Only benign proliferations,?,?,?
+nv,?,nv,nv,?,?
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Recurrent or persistent",?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+bkl,Benign,Collision - Only benign proliferations,?,?,?
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+bkl,Benign,Collision - Only benign proliferations,?,?,?
+actinic keratosis,?,?,bkl,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+vasc,Benign,Benign soft tissue proliferations - Fibro-histiocytic,vasc,vasc,?
+nevus,Benign,nv,Nevus,?,?
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+nevus,Benign,nv,Nevus,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+mel,?,mel,mel,?,?
+nv,?,nv,nv,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+squamous cell carcinoma,?,?,Squamous cell carcinoma in situ,?,?
+nevus,Benign,nv,Nevus,"Nevus, Congenital",?
+bcc,?,?,bcc,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,?,?
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+squamous cell carcinoma,?,?,?,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+actinic keratosis,?,?,bkl,?,?
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+bkl,Benign,Collision - Only benign proliferations,?,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nv,?,nv,nv,?,?
+nevus,Benign,nv,Nevus,?,?
+nv,?,nv,nv,?,?
+nevus,Benign,Collision - Only benign proliferations,?,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+mel,?,mel,mel,?,?
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+bcc,?,?,bcc,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,Collision - Only benign proliferations,?,?,?
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+actinic keratosis,?,?,bkl,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+df,Benign,Benign soft tissue proliferations - Fibro-histiocytic,df,?,?
+nevus,Benign,nv,Nevus,?,?
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+nevus,Benign,nv,Nevus,"Nevus, Congenital",?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+nevus,Benign,nv,Nevus,"Nevus, Combined",?
+mel,?,mel,mel,?,?
+actinic keratosis,?,?,bkl,?,?
+squamous cell carcinoma,?,?,Squamous cell carcinoma in situ,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nv,?,nv,nv,?,?
+nv,?,nv,nv,?,?
+nevus,Benign,nv,Nevus,?,?
+mel,?,mel,mel,?,?
+nv,?,nv,nv,?,?
+nevus,Benign,nv,Nevus,?,?
+nv,?,nv,nv,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Combined",?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+actinic keratosis,?,?,bkl,?,?
+nevus,Benign,nv,Nevus,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+bcc,?,?,bcc,?,?
+mel,?,mel,mel,?,?
+mel,?,mel,mel,?,?
+mel,?,mel,mel,?,?
+bcc,?,?,bcc,?,?
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+actinic keratosis,?,?,bkl,?,?
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,?,?
+nevus,Benign,nv,Nevus,?,?
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+mel,?,mel,mel,?,?
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Congenital",?
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+bcc,?,?,bcc,?,?
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+clear cell acanthoma,Benign,Benign epidermal proliferations,Clear cell acanthoma,?,?
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nv,?,nv,nv,?,?
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,?,?
+nv,?,nv,nv,?,?
+actinic keratosis,?,?,bkl,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nv,?,nv,nv,?,?
+squamous cell carcinoma,?,?,Squamous cell carcinoma in situ,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,?,?
+actinic keratosis,?,?,bkl,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+bcc,?,?,bcc,?,?
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,?,?
+mel,?,mel,mel,?,?
+mel,?,mel,mel,?,?
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+df,Benign,Benign soft tissue proliferations - Fibro-histiocytic,df,?,?
+nv,?,nv,nv,?,?
+actinic keratosis,?,?,bkl,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+nevus,Benign,nv,Nevus,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+df,Benign,Benign soft tissue proliferations - Fibro-histiocytic,df,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+actinic keratosis,?,?,bkl,?,?
+mel,?,mel,mel,?,?
+nv,?,nv,nv,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nv,?,nv,nv,?,?
+bkl,Benign,Collision - Only benign proliferations,?,?,?
+nevus,Benign,nv,Nevus,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+df,Benign,Benign soft tissue proliferations - Fibro-histiocytic,df,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,?,?
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+mel,?,mel,mel,?,?
+nv,?,nv,nv,?,?
+mel,?,mel,mel,?,?
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+squamous cell carcinoma,?,?,?,?,?
+df,Benign,Benign soft tissue proliferations - Fibro-histiocytic,df,?,?
+nevus,Benign,nv,Nevus,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+nevus,Benign,nv,Nevus,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+nevus,Benign,nv,Nevus,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+nevus,Benign,nv,Nevus,?,?
+mel,?,mel,mel,?,?
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+mel,?,mel,mel,?,?
+mel,?,mel,mel,?,?
+bkl,Benign,Collision - Only benign proliferations,?,?,?
+mel,?,mel,mel,?,?
+mel,?,mel,mel,?,?
+squamous cell carcinoma,?,?,?,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,?,?
+mel,?,mel,mel,?,?
+mel,?,mel,mel,?,?
+mel,?,mel,mel,?,?
+mel,?,mel,mel,?,?
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+mel,?,mel,mel,?,?
+nv,?,nv,nv,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+bkl,Benign,Collision - Only benign proliferations,?,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+squamous cell carcinoma,?,?,Squamous cell carcinoma in situ,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+nv,?,nv,nv,?,?
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,?,?
+bkl,Benign,Collision - Only benign proliferations,?,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+bkl,Benign,Collision - Only benign proliferations,?,?,?
+nevus,Benign,nv,Nevus,"Nevus, Recurrent or persistent",?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nv,?,nv,nv,?,?
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+nv,?,nv,nv,?,?
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+nevus,Benign,nv,Nevus,?,?
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nv,?,nv,nv,?,?
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+actinic keratosis,?,?,bkl,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,?,?
+nevus,Benign,nv,Nevus,Blue nevus,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+scar,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Scar,?,?
+nevus,Benign,nv,Nevus,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+actinic keratosis,?,?,bkl,?,?
+lentigo NOS,Benign,nv,Lentigo NOS,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+mel,?,mel,mel,?,?
+bkl,Benign,Benign epidermal proliferations,bkl,?,?
+mel,?,mel,mel,?,?
+nevus,Benign,nv,Nevus,?,?
+nevus,Benign,nv,Nevus,"Nevus, Atypical, Dysplastic, or Clark","Nevus, Atypical"
+nevus,Benign,nv,Nevus,?,?
