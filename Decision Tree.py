@@ -6,6 +6,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 from sklearn import tree
 from sklearn.metrics import accuracy_score
+from sklearn.metrics import recall_score
+from sklearn.metrics import precision_score
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 
@@ -44,7 +46,8 @@ for col in categorical_columns:
     dataSet[col] = encoder.fit_transform(dataSet[col])
 
 # Encode target variable
-dataSet['benign_malignant'] = encoder.fit_transform(dataSet['benign_malignant'])
+target_encoder = LabelEncoder()
+dataSet['benign_malignant'] = target_encoder.fit_transform(dataSet['benign_malignant'])
 
 # Building the Decision Tree
 x = dataSet.drop('benign_malignant', axis=1)
@@ -60,9 +63,13 @@ clf.fit(X_train, y_train)
 # Predict on the test set
 y_pred = clf.predict(X_test)
 
-# Calculate accuracy
+# Calculate accuracy, precision, recall
 accuracy = accuracy_score(y_test, y_pred)
+precision = precision_score(y_test, y_pred, average='weighted')
+recall = recall_score(y_test, y_pred, average='weighted')
 print(f'Decision Tree Accuracy: {accuracy:.2f}')
+print(f'Decision Tree Precision: {precision:.2f}')
+print(f'Decision Tree Recall: {recall:.2f}')
 
 class_mapping = dict(zip(encoder.classes_, encoder.transform(encoder.classes_)))
 class_names = list(class_mapping.keys())
