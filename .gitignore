@@ -1,4 +1,6 @@
 ISIC-images
+extra
 .idea/
 *.keras
 *.h5
+.ipynb_checkpoints
