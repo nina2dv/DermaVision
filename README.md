@@ -3,6 +3,7 @@
 DermaVision is a machine learning-powered diagnostic tool that addresses the critical shortage of dermatological care in Canada. The system combines advanced image analysis with patient metadata to provide accessible preliminary skin condition assessments, helping to reduce wait times and improve healthcare access in underserved areas.
 
 [Project Report](https://github.com/nina2dv/DermaVision/blob/main/Project%20Report_%20DermaVision%20(Team%20Salus).pdf)
+
 [Slides](https://github.com/nina2dv/DermaVision/blob/main/DermaVision_%20Classifying%20and%20Diagnosing%20Skin%20Cancer.pdf)
 
 ## Problem Statement
